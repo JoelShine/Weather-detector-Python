@@ -6,5 +6,5 @@ A weather detector app made from api provided by weathermap.org in Python.
 </p>
 
 <p align="center">
-  **Screenshot of the Project**L
+  <b>Screenshot of the Project</b>
   </p>
