@@ -8,3 +8,7 @@ A weather detector app made from api provided by weathermap.org in Python.
 <p align="center">
   <b>Screenshot of the Project</b>
   </p>
+
+Prerequisites 
+-------------
+You need to have Python 3 or above versions.
