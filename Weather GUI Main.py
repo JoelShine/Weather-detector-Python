@@ -12,7 +12,7 @@ def getWeather():
 
     city_name = textField.get()
 
-    api = "https://api.openweathermap.org/data/2.5/weather?q="+city_name+"&appid=69bf0a590576448ed0bfd804ac2b2694"
+    api = "https://api.openweathermap.org/data/2.5/weather?q="+city_name+"&appid=YOUR API KEY HERE"
 
     json_data = requests.get(api).json()
     condition = json_data['weather'][0]['main']
