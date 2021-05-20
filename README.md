@@ -11,4 +11,7 @@ A weather detector app made from api provided by weathermap.org in Python.
 
 Prerequisites 
 -------------
-You need to have Python 3 or above versions.
+You need to have Python 3 or above versions. Get your weather api from https://openweathermap.org/api . Then substitute your api key in the below line :
+```python
+api = "https://api.openweathermap.org/data/2.5/weather?q="+city_name+"&appid=YOUR API KEY HERE"
+```
